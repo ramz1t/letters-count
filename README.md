@@ -1,1 +1,1 @@
-Gets text from console as input. Returnsammount of letters in it.
+Gets text from console as input. Returns ammount of letters in it.
